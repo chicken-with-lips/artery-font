@@ -1,4 +1,4 @@
-﻿namespace ChickenWithLips.ArteryFont;
+namespace ChickenWithLips.ArteryFont;
 
 public class ArteryFontException : ApplicationException
 {
